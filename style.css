@@ -2,11 +2,18 @@ body {
 	font-family:sans-serif;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
 .nav{
 	background-color: black;
 	color: white;
 	list-style:none;
 	text-align:center;
+	font-size: 17px;
 	padding: 20px 0 20px 0;
 }
 
