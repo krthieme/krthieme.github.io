@@ -43,7 +43,7 @@ p{
 }
 
 #banner { text-align: center;
-  background-image: src="laptop.jpg";
+  background-image: url(https://picsum.photos/700/482?image=42)
   height: 405px;
   width: 100%;
   background-colour: #24b8ae;
