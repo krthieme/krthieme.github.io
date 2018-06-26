@@ -43,14 +43,13 @@ p{
 }
 
 #banner { text-align: center;
-  background-color: #24b8ae;
-  background-size: cover;
-  padding-top: 30px;
-  padding-left: 100px;
-  padding-right: 100px;
-  padding-bottom: 30px;
+  background-image: url(http://s30.postimg.org/x0ne0p5wx/bootsrap.png);
+  height: 405px;
+  width: 100%;
+  background-colour: #24b8ae;
+  background-position: center;	
 }
-
+	
 #banner h1 {
 	font-variant: bold;
 	color:white;
