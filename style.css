@@ -8,6 +8,15 @@ body {
 	list-style:none;
 	text-align:center;
 	padding: 20px 0 20px 0;
+}
+
+.nav > li > a {
+	text-decoration: none;
+	color: white;
+	
+.nav > li > a:hover {
+	color: #24b8ae;
+	}
 
 #banner {
   background-image: url("https://source.unsplash.com/a_L_fVDQQXI/1600x900")
