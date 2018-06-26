@@ -2,33 +2,6 @@ body {
 	font-family:sans-serif;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-li {
-	display: inline;
-}
-
-.nav{
-	background-color: black;
-	color: white;
-	list-style:none;
-	text-align:center;
-	font-size: 17px;
-	padding: 20px 0 20px 0;
-}
-
-.nav > li > a {
-	text-decoration: none;
-	color: white;
-	
-.nav > li > a:hover {
-	color: #24b8ae;
-	}
-
 #banner {
   background-image: url("https://source.unsplash.com/a_L_fVDQQXI/1600x900")
   max-height: 100%;
@@ -41,12 +14,16 @@ li {
 }
 	
 #banner h1 {
+	text-align: left;
+	padding-left: 30px;
 	font-variant: bold;
 	color:#24b8ae;
 	font-size:40px;
 }
 
 #banner h2 {
+	text-align:left;
+	padding-left:30px;
 	font-variant: lighter;
 	color:black;
 	font-size:20px;
