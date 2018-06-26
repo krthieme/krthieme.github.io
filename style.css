@@ -42,12 +42,13 @@ p{
 	font-size:13px;
 }
 
-#banner { text-align: left;
+#banner {
   background-image: url("https://source.unsplash.com/a_L_fVDQQXI/1600x900")
-  height: 600px;
+  height: 100%;
   width: 100%;
   background-colour: #24b8ae;
-  background-position: center;	
+  background-position: center;
+  text-align: left;
   padding-top: 50px;
   padding-left: 30px;
 }
