@@ -2,50 +2,17 @@ body {
 	font-family:sans-serif;
 }
 
-h1 {
-	color:#24b8ae;
-	font-size:40px;
-	font-weight: bolder;
-}
-
-h2 {
-	color:black;
-	font-size:20px;
-	font-weight:bolder;
-}
-
-
-h3 {
-	color:#24b8ae;
-	font-size:30px;
-	font-weight: bold;
-}
-
-
-h4 {
-	color:#24b8ae;
-	font-size:20px;
-	font-weight: bold;
-}
-
-
-h5 {
-	color:black;
-	font-size:16px;
-	font-weight: lighter;
-}
-
-
-p{
-	color:black;
-	font-weight:lighter;
-	font-size:13px;
-}
+.nav{
+	background-color: black;
+	color: white;
+	list-style:none;
+	text-align:center;
+	padding: 20px 0 20px 0;
 
 #banner {
   background-image: url("https://source.unsplash.com/a_L_fVDQQXI/1600x900")
-  height: 100%;
-  width: 100%;
+  max-height: 100%;
+  max-width: 100%;
   background-colour: #24b8ae;
   background-position: center;
   text-align: left;
@@ -55,17 +22,29 @@ p{
 	
 #banner h1 {
 	font-variant: bold;
-	color:white;
+	color:#24b8ae;
 	font-size:40px;
-	font-weight:500px;
 }
 
 #banner h2 {
-	color:white;
+	font-variant: lighter;
+	color:black;
 	font-size:20px;
-	font-weight: lighter;
 }
 
+h1 {
+	color:#24b8ae;
+	font-size:40px;
+	font-weight: bolder;
+}
+
+p{
+	color:black;
+	font-weight:lighter;
+	font-size:13px;
+}
+	
+	
 #social a {
   text-align:center;
   color:#24b8ae;
