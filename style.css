@@ -43,8 +43,8 @@ p{
 }
 
 #banner { text-align: center;
-  background-image: url("https://unsplash.it/1300/600?random");
-  height: 405px;
+  background-image: url("https://source.unsplash.com/a_L_fVDQQXI/1600x900")
+  height: 600px;
   width: 100%;
   background-colour: #24b8ae;
   background-position: center;	
